@@ -1,0 +1,4 @@
+Model: Random Forest Regressor
+MSE: 523327.71
+MAE: 439.98
+R2 Score: 0.69
